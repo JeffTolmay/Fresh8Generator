@@ -3,7 +3,7 @@ Title:
 
 Description:
 Generate Event data and write to file in batches.
-To Run in terminal go run 8gaming --number-of-groups=100 --batch-size=20 --interval=3 --output-directory=your directory
+To Run in terminal cd to folder and go run 8gaming --number-of-groups=100 --batch-size=20 --interval=3 --output-directory=your directory
 
 Logic:
 Starting in main.go i get the inputs and parse them for use, in the handleInputs method i do the batch calculation and calculate the percentages for every type needed for 

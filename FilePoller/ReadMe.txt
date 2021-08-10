@@ -3,7 +3,7 @@ Fresh8Poller
 
 Description:
 Monitor a location for new files and print the various events.
-To Run in terminal go run fresh8Poller
+To Run in terminal cd to folder and go run fresh8Poller
 
 Logic:
 Starting in main.go i start the watcher which checks the directory for new files in a certain directory.
